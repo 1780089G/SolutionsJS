@@ -5,8 +5,7 @@
   }
     //retunr true if even
   esle {
-    return false;
+    return false
   }
-
   //return falese otherwise
  }
